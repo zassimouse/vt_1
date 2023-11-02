@@ -1,0 +1,3 @@
+jar cvfe Task11.jar org.example.task9.Task9 org/example/task9/Task9.class org/example/task9/Ball.class org/example/tas
+k9/Basket.class org/example/task9/Color.class
+java -jar MyApplication.jar
